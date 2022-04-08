@@ -1,5 +1,5 @@
 # Defender-for-Cloud-Apps-Proxy-Bypass
-Simple CLIENT side bypass for the Microsoft Defender for Cloud Apps Proxy
+Simple CLIENT side bypass for the Microsoft Defender for Cloud Apps Proxy. I submitted this to MSRC and Microsoft determined that this was not worth fixing. Enjoy!
 
 ## Description
 By setting a user agent string in your browser, you can bypass the protections offered by the Microsoft Defender for Cloud Apps Proxy. (Copy, Paste, Download, etc.)
